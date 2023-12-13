@@ -19,4 +19,24 @@ You may change the random seed using the --seed argument, extend the Sim-Grad it
 
 ## Citation
 
-pass
+1.Caliskan, Aylin, Joanna J. Bryson, and Arvind Narayanan: Semantics derived automatically from language corpora contain human-like biases. Science 356.6334, 183--186 (2017)
+ 
+2.Moritz Hardt, Eric Price, and Nathan Srebro: Equality of Opportunity in Supervised Learning. Advances in Neural Information Processing Systems 29, (2016)
+ 
+3.Elias Benussi, Andrea Patane, Matthew Wicker, Luca Laurenti, and Marta Kwiatkowska: Individual Fairness Guarantees for Neural Networks. International Joint Conference on Artificial Intelligence Main Track 31, 651--658 (2022)
+ 
+4.Suresh Harini, and John Guttag: A framework for understanding sources of harm throughout the machine learning life cycle. Equity and access in algorithms, mechanisms, and optimization, 1--9 (2021)
+
+5.Olteanu Alexandra, Emre Kıcıman, and Carlos Castillo: A critical review of online social data: Biases, methodological pitfalls, and ethical boundaries. Proceedings of the eleventh ACM international conference on web search and data mining, (2018)
+
+6.Mengnan Du, Fan Yang, Na Zou, and Xia Hu: Fairness in deep learning: A computational perspective. IEEE Intelligent Systems 36.4, 25--34 (2020)
+
+7.Burnaev Evgeny, Pavel Erofeev, and Artem Papanov: Influence of resampling on accuracy of imbalanced classification. Eighth international conference on machine vision Vol. 9875. SPIE, (2015)
+
+8.Yin Cui, Menglin Jia, Tsung-Yi Lin, Yang Song, and Serge Belongie:Class-balanced loss based on effective number of samples. Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, (2019)
+
+9.NV Chawla, KW Bowyer, LO Hall, and WP Kegelmeyer: SMOTE: synthetic minority over-sampling technique. Journal of artificial intelligence research 16, 321--357(2002) 
+
+10.Shorten Connor, and Taghi M. Khoshgoftaar: A survey on image data augmentation for deep learning. Journal of big data 6.1, 1--48(2019) 
+
+11.John Philips George, Deepak Vijaykeerthy, and Diptikalyan Saha: Verifying individual fairness in machine learning models. Conference on Uncertainty in Artificial Intelligence. PMLR, (2020)
