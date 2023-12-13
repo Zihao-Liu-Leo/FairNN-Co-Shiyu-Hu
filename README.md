@@ -4,7 +4,8 @@ by Liu Zihao, Hu Shiyu
 
 ## Introduction
 
-pass
+This project aims to implement the validation and optimization of a neural network fairness guarantee framework. We trained a neural network with adjustable independent variable parameters w and b based on the Sigmoid function as the activation function on the Boston dataset with bias attributes, and simply implemented the measure of individual fairness mentioned in the reference paper, and also made valuable optimization of fairness guarantee by applying the joint method of parameter random sampling + sample resampling + proposed gradient descent. The specific experimental code (integrated version) is shown in "fairnn.py", and the distribution code during the completion of the experiment will be attached to the "Preliminary Work" folder.
+
 
 ## Requirements
 ```
